@@ -17,7 +17,8 @@ Este sistema é projetado para gerenciar o cadastro de diferentes tipos de usuá
 Incluímos os diagramas de caso de uso e de classes, conforme a modelagem inicial.
 
 ### Diagrama de Caso de Uso
-![Diagrama de Caso de Uso](link_para_imagem)
+![diagrama_uml](https://github.com/user-attachments/assets/47d66861-bee0-4b49-84f1-ce4987af696f)
+
 
 ### Diagrama de Classe
 ![Diagrama de Classe](link_para_imagem)
